@@ -2,3 +2,7 @@
 public int max(int num1,int num2){
     return Math.max(num1,num2);
 }
+#A00439749
+public int power(int num1,int num2){
+    return (pow(num1, num2) - math.pow(num1, num2));
+}
