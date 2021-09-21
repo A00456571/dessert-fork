@@ -1,4 +1,14 @@
+#A00456571
+public int division(int num1,int num2){
+    if(nums2!=0)
+        return (num1/num2);
+    return Integer.MAX_VALUE;
+}
 #A00447005
 public int subtraction(int num1,int num2){
     return (num1 - num2);
+}
+#A00439749
+public int min_max(int num1,int num2){
+    return (min(int1, int2) - math.max(int1, int2));
 }

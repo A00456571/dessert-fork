@@ -6,4 +6,8 @@ public int addition(int num1,int num2){
 #A00447005
 public int addition(int num1,int num2){
     return (num1 - num2);
+
+#A00439749
+public int multiplication(int num1,int num2){
+    return (num1 * num2);
 }
