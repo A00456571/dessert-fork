@@ -6,3 +6,8 @@ public int max(int num1,int num2){
 public int power(int num1,int num2){
     return (pow(num1, num2) - math.pow(num1, num2));
 }
+
+#A00447005
+public int avg(int num1,int num2){
+    return Math.avg(num1,num2);
+}
