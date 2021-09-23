@@ -3,6 +3,6 @@ Creating mathematical functions project with a focus to learn branching and team
 
 #A00456571 - Manjot Singh Bains
 Features added :-
-File1.txt - Addition(+) - Returns sum of 2 integers
-File2.txt - Division(/) - Returns the quotient by dividing 2 integers
-File3.txt - Max - retuens the maximum of 2 integers
+1. File1.txt - Addition(+) - Returns sum of 2 integers
+2. File2.txt - Division(/) - Returns the quotient by dividing 2 integers
+3. File3.txt - Max - Returns the maximum of 2 integers
