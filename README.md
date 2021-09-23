@@ -12,3 +12,10 @@ Features added :-
 1. File1.txt - Multiplication(x) - Returns product of 2 integers
 2. File2.txt - Minimum - Returns minimum of 2 integers
 3. File3.txt - Power - Returns the exponent value of 2 integers.
+
+#A00447005 - Viren Varasadiya
+Features added :-
+1. File1.txt - Subtraction(-) - Returns subtraction of 2 integers
+2. File2.txt - Mod - Returns modulo of 2 integers
+3. File3.txt - Average - Returns the average value of 2 integers.
+
