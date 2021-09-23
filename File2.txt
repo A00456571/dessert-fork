@@ -9,6 +9,6 @@ public int subtraction(int num1,int num2){
     return (num1 - num2);
 }
 #A00439749
-public int min_max(int num1,int num2){
-    return (min(int1, int2) - math.max(int1, int2));
+public int minimum(int num1,int num2){
+    return math.min(int1, int2);
 }
